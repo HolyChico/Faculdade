@@ -1,5 +1,5 @@
 # importa funções
-from IPython.displa1y import clear_output   # "limpatela" (tipo portugol)
+from IPython.display import clear_output   # "limpatela" (tipo portugol)
 import time                                 # tempo
 
 curriculos = []                             # Lista que armazenará os currículos
